@@ -126,7 +126,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
         android:autoLink="web"
-        android:text="https://github.com/yourusername/ZakatGoldApplication"
+        android:text="https://github.com/syazwnynur/ZakatGoldApplication"
         android:textColor="#0000EE"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
